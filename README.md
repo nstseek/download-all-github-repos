@@ -1,4 +1,4 @@
-# puppeteer-test
+# download-all-github-repos
 
 Automated script that downloads every repo from a GitHub organization or user
 
