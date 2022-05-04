@@ -1,8 +1,8 @@
 {
-  "name": "puppeteer-test",
+  "name": "download-all-github-repos",
   "version": "1.0.0",
   "main": "build/index.js",
-  "repository": "https://github.com/nstseek/puppeteer-test",
+  "repository": "https://github.com/nstseek/download-all-github-repos",
   "author": "Rafael Lopes Schneider",
   "license": "MIT",
   "type": "module",
